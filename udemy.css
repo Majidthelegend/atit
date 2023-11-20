@@ -98,6 +98,9 @@ section a {
     margin-right: 10px;
 }
 
+.box:first-child{
+    align-items:center;
+
 .box{
     margin-bottom: 20px;
     transition: all 1s;
