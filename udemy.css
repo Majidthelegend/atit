@@ -99,7 +99,7 @@ section a {
 }
 
 .box:first-child{
-    align-items:center;
+    text-align:center;
 
 .box{
     margin-bottom: 20px;
