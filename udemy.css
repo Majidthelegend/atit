@@ -100,6 +100,7 @@ section a {
 
 .box:first-child{
     text-align:center;
+    display:flex;
 
 .box{
     margin-bottom: 20px;
